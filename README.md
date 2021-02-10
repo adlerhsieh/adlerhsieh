@@ -2,7 +2,7 @@
 
 Thanks for checking my profile 😄 If you're on your way to become a better software developer:
 
-#### Here's [my YouTube channel](https://www.youtube.com/channel/UC4525fkKrAC3GjtkhD24yYA) that you might find useful!
+#### Here's my [▶️ YouTube channel](https://www.youtube.com/channel/UC4525fkKrAC3GjtkhD24yYA) that you might find useful!
 
 The content includes:
 
