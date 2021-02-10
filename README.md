@@ -1,4 +1,18 @@
-### Hi there 👋
+[![](https://i.imgur.com/766sy0S.png)](https://www.youtube.com/channel/UC4525fkKrAC3GjtkhD24yYA)
+
+Thanks for checking my profile 😄 If you're a junior developer, or on the way to become a software developer:
+
+#### Here's [my YouTube channel](https://www.youtube.com/channel/UC4525fkKrAC3GjtkhD24yYA) that you might find useful!
+
+The content includes:
+
+- software development
+- career
+- work in Japan
+
+Let me know if you have any questions, or anyhting you wanna know. Comments and messages are welcome! Enjoy!
+
+Also, here's my [blog](https://adlerhsieh.com) if you prefer reading text 📖.
 
 <!--
 **adlerhsieh/adlerhsieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
