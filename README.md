@@ -1,8 +1,10 @@
 [![](https://i.imgur.com/766sy0S.png)](https://www.youtube.com/channel/UC4525fkKrAC3GjtkhD24yYA)
 
-Thanks for checking my profile 😄 If you're on your way to become a better software developer:
+Thanks for checking my profile 😄 If you're on your way to become a better software developer, I'm sharing my experiences on various platforms.
 
-#### Here's my [▶️ YouTube channel](https://www.youtube.com/channel/UC4525fkKrAC3GjtkhD24yYA) that you might find useful!
+#### [▶️ YouTube](https://www.youtube.com/channel/UC4525fkKrAC3GjtkhD24yYA)
+#### [📖 Blog](https://adlerhsieh.com)
+#### [🐦 Twitter](https://twitter/adlerhsieh)
 
 The content includes:
 
@@ -11,8 +13,6 @@ The content includes:
 - work in Japan (if you're interested)
 
 Let me know if you have any questions, or anyhting you wanna know. Comments and messages are welcome! Enjoy!
-
-Also, here's my [blog](https://adlerhsieh.com) if you prefer reading text 📖.
 
 <!--
 **adlerhsieh/adlerhsieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
