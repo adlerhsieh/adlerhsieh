@@ -4,7 +4,7 @@ Thanks for checking my profile 😄 If you're on your way to become a better sof
 
 #### [▶️ YouTube](https://www.youtube.com/channel/UC4525fkKrAC3GjtkhD24yYA)
 #### [📖 Blog](https://adlerhsieh.com)
-#### [🐦 Twitter](https://twitter/adlerhsieh)
+#### [🐦 Twitter](https://twitter.com/adlerhsieh)
 
 The content includes:
 
