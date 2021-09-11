@@ -2,9 +2,9 @@
 
 Thanks for checking my profile 😄 If you're on your way to become a better software developer, I'm sharing my experiences on various platforms.
 
-#### [▶️ YouTube](https://www.youtube.com/channel/UC4525fkKrAC3GjtkhD24yYA)
-#### [📖 Blog](https://adlerhsieh.com)
-#### [🐦 Twitter](https://twitter.com/adlerhsieh)
+- [▶️ YouTube](https://www.youtube.com/channel/UC4525fkKrAC3GjtkhD24yYA)
+- [📖 Blog](https://adlerhsieh.com)
+- [🐦 Twitter](https://twitter.com/adlerhsieh)
 
 The content includes:
 
