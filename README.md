@@ -1,5 +1,3 @@
-[![](https://i.imgur.com/766sy0S.png)](https://www.youtube.com/channel/UC4525fkKrAC3GjtkhD24yYA)
-
 Thanks for checking my profile 😄 If you're on your way to become a better software developer, I'm sharing my experiences on various platforms.
 
 - [▶️ YouTube](https://www.youtube.com/channel/UC4525fkKrAC3GjtkhD24yYA)
