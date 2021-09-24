@@ -4,11 +4,21 @@ Thanks for checking my profile 😄 If you're on your way to become a better sof
 - [📖 Blog](https://adlerhsieh.com)
 - [🐦 Twitter](https://twitter.com/adlerhsieh)
 
-The content includes:
+Also, I'm on **Codementor** now!
+
+[![Contact me on Codementor](https://www.codementor.io/m-badges/adlerhsieh/find-me-on-cm-b.svg)](https://www.codementor.io/@adlerhsieh?refer=badge)
+
+You can schedule a live 1-on-1 session with me for any of the following:
 
 - software development
 - career
 - work in Japan (if you're interested)
+- debugging
+- coding questions
+- code review
+- resume review
+- mock interview
+- career path consulting
 
 Let me know if you have any questions, or anyhting you wanna know. Comments and messages are welcome! Enjoy!
 
