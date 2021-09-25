@@ -27,6 +27,8 @@ You can schedule a live 1-on-1 session with me for any of the following:
 - career
 - work in Japan
 
+Long-term scheduling is also possible.
+
 Enjoy!
 
 ## About Me
