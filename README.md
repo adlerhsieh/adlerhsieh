@@ -27,6 +27,8 @@ You can schedule a live 1-on-1 session with me for any of the following:
 - career
 - work in Japan
 
+Enjoy!
+
 <!--
 **adlerhsieh/adlerhsieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
