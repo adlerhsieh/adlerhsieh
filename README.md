@@ -10,7 +10,7 @@ Let me know if you have any question. Comments and messages are welcome!
 
 Or...
 
-## Scheduling a 1-on-1 Live Session
+## Scheduling an 1-on-1 Session
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/adlerhsieh/find-me-on-cm-b.svg)](https://www.codementor.io/@adlerhsieh?refer=badge)
 
@@ -18,15 +18,14 @@ I'm on [**Codementor**](https://www.codementor.io/@adlerhsieh?refer=badge) now!
 
 You can schedule a live 1-on-1 session with me for any of the following:
 
-- software development
-- career
-- work in Japan
+- tech questions
 - debugging
-- coding questions
 - code review
 - resume review
 - mock interview
 - career path consulting
+- career
+- work in Japan
 
 <!--
 **adlerhsieh/adlerhsieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
