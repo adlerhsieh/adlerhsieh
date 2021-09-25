@@ -33,13 +33,13 @@ Enjoy!
 
 I am a software engineer who is dedicated to solving real-world problems with technical solutions.
 
-Skill Highlights:
-● 7+ years full-time professional experience in software engineering.
-● 4+ years of mentorship experience, including coaching technical skills & offering career support.
-● Leading development of multiple Ruby on Rails & Golang projects. Experience in designing system architecture, integrating apps, and building workflows.
+#### Skill Highlights
+- 7+ years full-time professional experience in software engineering.
+- 4+ years of mentorship experience, including coaching technical skills & offering career support.
+- Leading development of multiple Ruby on Rails & Golang projects. Experience in designing system architecture, integrating apps, and building workflows.
 
-Community Highlights:
-● Speaker: Webhack Meetup Tokyo May 2020
-● Speaker: Ruby on Rails Oceania Sydney (rorosyd) Meetup July 2017
-● Speaker: RubyConf 2016 Taiwan Ligntning Talk
-● Speaker: RubyConf 2015 Taiwan
+#### Community Highlights
+- Speaker: Webhack Meetup Tokyo May 2020
+- Speaker: Ruby on Rails Oceania Sydney (rorosyd) Meetup July 2017
+- Speaker: RubyConf 2016 Taiwan Ligntning Talk
+- Speaker: RubyConf 2015 Taiwan
