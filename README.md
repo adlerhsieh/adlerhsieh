@@ -29,17 +29,17 @@ You can schedule a live 1-on-1 session with me for any of the following:
 
 Enjoy!
 
-<!--
-**adlerhsieh/adlerhsieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a software engineer who is dedicated to solving real-world problems with technical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skill Highlights:
+● 7+ years full-time professional experience in software engineering.
+● 4+ years of mentorship experience, including coaching technical skills & offering career support.
+● Leading development of multiple Ruby on Rails & Golang projects. Experience in designing system architecture, integrating apps, and building workflows.
+
+Community Highlights:
+● Speaker: Webhack Meetup Tokyo May 2020
+● Speaker: Ruby on Rails Oceania Sydney (rorosyd) Meetup July 2017
+● Speaker: RubyConf 2016 Taiwan Ligntning Talk
+● Speaker: RubyConf 2015 Taiwan
