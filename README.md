@@ -2,8 +2,9 @@ Thanks for checking my profile 😄 If you're on your way to become a better sof
 
 ## Videos & Blog Posts
 
-- [▶️ YouTube](https://www.youtube.com/channel/UC4525fkKrAC3GjtkhD24yYA)
-- [🐦 Twitter](https://twitter.com/adlerhsieh)
+- [YouTube](https://www.youtube.com/channel/UC4525fkKrAC3GjtkhD24yYA)
+- [Twitter](https://twitter.com/adlerhsieh)
+- [Blog](https://adlerhsieh.com)
 
 Let me know if you have any question. Comments and messages are welcome!
 
